@@ -1,0 +1,29 @@
+{
+  "name": "fancy-hooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/classnames": "^2.2.7",
+    "classnames": "^2.2.6",
+    "@types/p-debounce": "^1.0.0",
+    "@types/prop-types": "^15.7.0",
+    "@types/react": "^16.8.6",
+    "@types/react-dom": "^16.8.2",
+    "p-debounce": "^1.0.0",
+    "parcel-bundler": "^1.11.0",
+    "prettier": "^1.16.4",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-use": "^5.5.4",
+    "resize-observer-polyfill": "^1.5.1",
+    "typescript": "^3.3.3333"
+  },
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "browserslist": [
+    "since 2017-06"
+  ]
+}
